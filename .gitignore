@@ -1,3 +1,7 @@
+# cmake and make directories
+build/
+dist/
+
 # Prerequisites
 *.d
 
